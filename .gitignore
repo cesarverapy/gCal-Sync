@@ -89,7 +89,8 @@ agenthub/agents/youtube/db
 *.deb
 *.dylib
 
-# Build caches
+# Build
+build/
 .cache/
 .parcel-cache/
 .eslintcache
